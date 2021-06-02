@@ -89,11 +89,42 @@ Course 4: Conduct UX Research and Test Early Concepts.
 
 20. **Strong insights uncovered in research should be easy to understand, answer the research question, and increase empathy for the user.**
 
-True
+- True
 
 21. **What types of content should be included in your presentation slide deck when presenting UX research insights to stakeholders?** 
 
 - Themes, insights and recommendations, and details about the study
+
+---
+
+### Introduction to Mockups
+
+In UX, **fidelity** means how closely a design matches the look and feel of the final product.
+
+If a design is **low fidelity**, that means it has a lower amount of complexity and is less refined or polished.
+
+If a design is **high fidelity**, that means it closely matches the look and feel of the final product and is more refined or polished overall.
+
+A **mockup** is a static, high-fidelity design that is used as a representation of a final product.
+
+---
+
+### Test your knowledge on mockups in the design process
+
+1. **What are characteristics of a mockup in UX design?**
+
+- Mockups include visual elements, such as photos, colors, shadows, icons, and fonts to represent the final product.
+
+
+2. **A designer develops an app for home workouts and wants to test the prototype. In which stage does the designer build a mockup for the product?**
+
+- During the final testing phase
+
+---
+
+
+
+
 
 
 
