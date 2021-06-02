@@ -1,20 +1,23 @@
 # WEEK 1
 
-1. What are some key benefits of considering accessibility in UX design? Select all that apply.
+### Practice Quiz: Test your knowledge of prior concepts 
 
-Creates solutions that often help everyone
-Ensures underrepresented and excluded groups are taken into account
+1. **What are some key benefits of considering accessibility in UX design? Select all that apply.**
 
-2. Question 2
-Which phase of the design sprint helps the team find solutions to build on?
+- Creates solutions that often help everyone
+- Ensures underrepresented and excluded groups are taken into account
+- Addresses societal structures and products rather than a person’s ability
 
-Ideate
 
-3. What can a researcher learn when they properly empathize with users during user research? 
+2. **Which phase of the design sprint helps the team find solutions to build on?**
 
-The needs, behaviors, and motivations of their users
+- Ideate
 
-4. Which of the following are examples of pain points?
+3. **What can a researcher learn when they properly empathize with users during user research?** 
+
+- The needs, behaviors, and motivations of their users
+
+4. **Which of the following are examples of pain points?**
 
 - Struggling to interact with a button on a mobile app’s homepage because it’s extremely small
 
@@ -22,21 +25,79 @@ The needs, behaviors, and motivations of their users
 
 - Being asked to submit credit card information when no payment is required
 
-5. You are designing a life-coaching app for people between the ages of 21 and 30. After conducting research with a diverse set of users, you discover that established professionals are three times more likely to use life-coaching services than those at the beginning of their careers. Which of the following is an example of a complete user persona for your user group?
+5. **You are designing a life-coaching app for people between the ages of 21 and 30. After conducting research with a diverse set of users, you discover that established professionals are three times more likely to use life-coaching services than those at the beginning of their careers. Which of the following is an example of a complete user persona for your user group?**
 
 - Nistha Dube, a 29-year-old engineer and foodie from Chennai, India, who makes viral cooking videos on the weekends. Nistha has been thinking about how to balance their career and their passion for food, but they also want to make more time for their mental health in their schedule. 
 
-6. Which of the following user stories is complete?
+6. **Which of the following user stories is complete?**
 
 - As a yoga instructor, I want to create a consistent class schedule so that my clients know how to confidently plan their weekly exercise. 
 
-7. Fill in the blank: Designing products with accessibility and inclusivity in mind ensures that you _____.
+7. **Fill in the blank: Designing products with accessibility and inclusivity in mind ensures that you _____.**
 
 - include solutions that benefit specific individuals, which improves the user experience for all users. 
 
-8. 
+8. **Which of the following is a complete problem statement?**
 
 - Bella is a dance choreographer who needs to create a practice video because some of their students have school during the day and can’t attend lessons in person.
+
+9. **Identify the steps of the ideation process in the correct order.**
+
+- Brainstorming, documenting ideas, focusing on quantity, gathering a diverse team, questioning obvious solutions, and evaluating the ideas.
+
+10. **You’re a UX designer working on a gaming app in a competitive market space. You want to figure out what your competitors’ strengths and weaknesses are, and how to create a better product. What should you do?** 
+
+- Conduct a competitive audit
+
+11. **Which of the following scenarios would be most appropriate to use a close-up storyboard?**
+
+- Create digital wireframes
+
+
+12. **Which of the following UX tools and processes demonstrates the basic structure and layout of a design without including specific visual details?**
+
+- Wireframes
+
+13. **You are working on an app that connects users to tree removal services in their local area. You have already created paper wireframes and now it’s time to build the design on the computer. What is the next step?**
+
+- Create a digital wireframes
+
+14. **How is a prototype different from a wireframe?** 
+
+- A prototype is an interactive representation of a complete design solution that shows stakeholders how it will work. A wireframe is a single screen with basic elements that establishes the structure of a page.
+
+15. **Identify the benefit of using paper prototypes in the design process**
+
+- Paper prototypes allow rapid iterations and require low commitment
+
+16. **Fill in the blank: _____ is the collection of attitudes and stereotypes we associate to people without our conscious knowledge.**
+
+- Implicit bias
+
+17. **Which of the following is an example of a usability study?**
+
+- Arthur recruits participants for a study, gives them specific tasks, and asks them how difficult each task was to complete afterwards
+
+18. **A moderator conducts a usability study to solicit feedback on a mileage tracking feature for a cycling app. Which type of bias may occur if the participant gives multiple pieces of feedback in the same answer?** 
+
+Course 4: Conduct UX Research and Test Early Concepts.
+
+19. **You are a UX researcher who just finished the research for an app that helps users find speciality coffee brands. You’ve gathered all of the observations from your interviews and identified the common themes. What comes next?** 
+
+- Write down insights based on the themes you’ve identified
+
+
+20. **Strong insights uncovered in research should be easy to understand, answer the research question, and increase empathy for the user.**
+
+True
+
+21. **What types of content should be included in your presentation slide deck when presenting UX research insights to stakeholders?** 
+
+- Themes, insights and recommendations, and details about the study
+
+
+
+
 
 
 
