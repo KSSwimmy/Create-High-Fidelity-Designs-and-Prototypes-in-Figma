@@ -122,6 +122,10 @@ A **mockup** is a static, high-fidelity design that is used as a representation 
 
 ---
 
+### Introduction to foundational elements of visual design
+
+On a basic level, the term **visual design** in UX refers to how a product or technology appears to the user.
+
 
 
 
