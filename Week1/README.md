@@ -126,6 +126,51 @@ A **mockup** is a static, high-fidelity design that is used as a representation 
 
 On a basic level, the term **visual design** in UX refers to how a product or technology appears to the user.
 
+---
+
+### Typography in UX design
+
+Three steps to find the perfect typography for your design
+- Selecting a type classification
+- Picking a typeface
+- Choosing a font 
+
+**Type classification** is a general system to describe styles of type.
+
+A **typeface** is the overall style of a letter. Typefaces are distinguished by their stroke weight, shape, type of serif, and line lengths.
+
+---
+
+### The importance of typography
+
+A **typographic hierarchy** is a method of ordering typefaces and fonts in a layout to create divisions that show users where to focus and how to find information.
+
+---
+
+### Test your knowledge of typography
+
+**A _____ is the size, thickness, and emphasis of letters.**
+
+- font
+
+**Which of the following is an example of a typeface name?**
+
+- Arial 
+
+**You want to include a serif typeface for an upcoming design project. Which of the following font families work best for the design?**
+
+- 
+
+**What are the benefits of good typography? Select all that apply.**
+
+- Typography demonstrates brand guidelines.
+- Typography makes text easier to read.
+- Typography adds hierarchy to help readers navigate a page better.
+
+---
+
+
+
 
 
 
