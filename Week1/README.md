@@ -169,7 +169,14 @@ A **typographic hierarchy** is a method of ordering typefaces and fonts in a lay
 
 ---
 
+### Color in UX design
 
+**60-30-10 Rule**
+- One neutral color makes up 60% of the color palette 
+- A second complementary color makes up 30% of the palette 
+- A third accent color makes up 10% of the palette to add emphasis
+
+---
 
 
 
