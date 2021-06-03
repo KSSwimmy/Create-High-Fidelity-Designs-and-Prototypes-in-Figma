@@ -177,6 +177,22 @@ A **typographic hierarchy** is a method of ordering typefaces and fonts in a lay
 - A third accent color makes up 10% of the palette to add emphasis
 
 ---
+### Test your knowledge on color
+
+**In the 60-30-10 rule for design, which color characteristic makes up 10% of the palette?**
+
+- Accent color
+
+**A design team builds a site for a travel company and wants to incorporate vibrant colors into the design. The team consults the _____ to ensure the colors they select follow contrast guidelines and maintain accessibility.**
+
+- Web Content Accessibility Guidelines
+
+---
+
+
+
+
+
 
 
 
