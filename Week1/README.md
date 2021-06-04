@@ -340,6 +340,30 @@ Using grids can help improve the consistency and visual appeal of your mockups, 
 
 For a different perspective, you can also learn how to build better designs with layout grids in this article from Smashing Magazine.
 
+---
+
+### Reading: Create containment in mockups
+
+As you determine the layout of elements on the pages of your mockups, be sure to consider containment. As a reminder, **containment** uses visual barriers to keep designs neat and organized. In other words, barriers like lines or colors help limit content to a specific section of a design. 
+
+You were introduced to four methods of containment in the previous video: dividers, borders, fill, and shadow. In this reading, you'll get a better understanding of how to create each of these containment methods in Figma.
+
+#### Create dividers 
+
+**Dividers** are single lines that separate sections of content in a design. Dividers can be simple yet effective tools for quickly breaking up content that doesn’t belong together. Adding a divider in Figma is pretty simple, but you need to know how the sections of your mockups relate to each other in order to determine where dividers should be placed.
+
+To create a divider in Figma:
+
+1. Identify sections of content in your mockup that need to be separate from one another.
+2. In the toolbar at the top left of the screen, select the **Rectangle** tool, which is represented by an icon that looks like a square. 
+3. Select **Line** from the dropdown menu, as shown in the image below.
+
+---
+
+
+
+
+
 
 
 
