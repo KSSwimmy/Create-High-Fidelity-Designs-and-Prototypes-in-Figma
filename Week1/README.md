@@ -252,7 +252,15 @@ As always, the goal of designing a great user experience is to make people’s l
 
 ---
 
+### Iconography in UX design
 
+**How does iconography in visual design impact the user experience? Select all that apply**
+
+- Icons support global audiences.
+- Icons limit wasted space.
+- Icons create easy transitions to another page or location.
+
+---
 
 
 
