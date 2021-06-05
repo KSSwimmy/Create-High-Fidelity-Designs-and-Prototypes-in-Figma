@@ -68,4 +68,9 @@ You’ll notice the variety with the size of the images above. The designers at 
 
 #### Applying variety to your mocks
 Part of becoming a successful UX designer is finding ways to keep users excited about your product. Even if that product isn’t very exciting! Applying some variety to your elements can go a long way towards keeping your users interested in the design you’ve created. Are there any areas of your mocks that you feel are too repetitive? Think about what you’ve learned about variety and try something a little bit different. 
+
 ---
+
+### Apply Gestalt Principles to mockups
+
+To refresh your memory, **Gestalt principles** describe how humans group similar elements, recognize patterns, and simplify complex images when we perceive objects.
