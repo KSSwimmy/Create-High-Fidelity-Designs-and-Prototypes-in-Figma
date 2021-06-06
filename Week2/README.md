@@ -74,3 +74,78 @@ Part of becoming a successful UX designer is finding ways to keep users excited 
 ### Apply Gestalt Principles to mockups
 
 To refresh your memory, **Gestalt principles** describe how humans group similar elements, recognize patterns, and simplify complex images when we perceive objects.
+
+**Which Gestalt Principle states that elements that are close together appear to be more related compared to elements spaced farther apart?**
+
+- Proximity
+
+**Consider the following scenario:** 
+
+**Emile is creating an app that lets people rent bicycles. Users can check in, check out, and pay for their rental with it. Emile wants users to associate the brand color—vermillion red—with the check-out process by indicating successful progress with check marks in this color. Emile  wants to make buttons, such as “Next” and “Complete Order” to follow the same theme. Which Gestalt principle is this comparable to?**
+
+- Similarity
+
+---
+### Learn about additional Gestalt Principles
+
+As a reminder, Gestalt Principles describe how humans group similar elements, recognize patterns, and simplify complex images when we perceive objects. In other words, the human brain will attempt to simplify and organize complex images by subconsciously arranging the parts into a cohesive whole. Applying Gestalt Principles in your mockups will help create user-friendly designs that are rooted in psychology and human behavior. 
+
+So far in this certificate program, you’ve learned about three Gestalt Principles:
+
+- **Similarity:** Elements that look similar are perceived to have the same function.
+- **Proximity:** Elements that are close together appear to be more related than elements that are spaced farther apart. 
+- **Common region:** Elements located within the same area are perceived to be grouped together.
+
+Now, you’ll explore three additional Gestalt Principles: closure, continuity, and symmetry.
+
+**Closure** is the principle that describes the fact that when a user looks at an incomplete object, they subconsciously complete the image to see the whole, completed object. This happens because the human brain naturally simplifies complex elements. 
+
+The graphic above is technically a bunch of different colored lines — but those lines imply shapes. The human brain perceives lines as a red square, a blue circle, and a yellow triangle because of the desire for closure. 
+
+Using the principle of closure can keep users engaged with your designs by improving a user’s attention to objects. There are many different shapes and objects that can be perceived in different company logos. Here’s an example of continuity within the FedEx logo.
+
+In the FedEx logo, shown above, there is a subtle example of continuity. Can you spot it? Between the E and x, the white space forms an arrow pointing right. There is no outline or distinction on this arrow, but users can see it because the shape of the E and the x come together, without touching, to provide the illusion of the arrow. For FedEx, this arrow is more than the closure principle; it also fits in with their brand’s purpose of shipping items for their users (it implies moving forward in a particular direction).
+
+To read about a few of the ways that you can apply closure to your product designs to reflect the purpose of your product, here’s an article from the UX Collective: Improve Your Designs With The Principles Of Closure And Figure-Ground.
+
+**Continuity** is the principle of guiding a user’s eye from object to object. Using this principle forces the user’s attention to specific areas or paths on the screen. In the graphic above, your eye is led from the first circle, through the second, and to the third because your eye is “following” the line as it moves across the graphic.
+
+Since humans naturally follow paths, lines, and curves of a design, UX designers can use continuity to help guide users as they move in a particular direction toward a goal in a product. It's pleasing to the human eye to experience continuity through visuals, like in the graphic above. 
+
+Here’s an example of how the continuity principle works in this navigation menu on the website for the United States Postal Service (USPS).
+
+Users come to the USPS website to learn many types of information. Imagine that you are looking for information about sending a package. Your first stop would be to click “Send” in the navigation menu. Then your gaze moves to “Learn About” because you are interested in learning how to send a package. Next, your gaze moves down to “Sending” because that’s what you’re looking to do. There you find the link to learning about sending packages. 
+
+The principle of continuity is used here to lead the eyes vertically through the navigation menu to help the user find the answers they’re looking for. It happens so quickly that the user likely doesn’t realize that they’ve gone through three levels of menus to find the link they’re searching for. 
+
+Continuity is a fantastic way of giving your user exactly what they want from all of your elements, not just navigation. Here’s a link to an article from UXCam that breaks down the right and wrong ways you can use continuity as you design: Gestalt Principles: The Complete Overview.
+
+Another way that users can perceive elements is based on the way that they look in relation to each other: whether they are symmetrical or asymmetrical. 
+
+**Symmetry** is the idea that elements are more visually pleasing when the parts of a shape or an object are balanced or are mirror images of each other. The human brain perceives objects that are symmetrical as more pleasing, as well as related to each other. 
+
+**Asymmetry** is the idea that a lack of balance and equality in a shape or object can emphasize its importance and create visual interest. Asymmetry can help call attention to a specific item or grouping of items or add visual movement to an image.
+
+On the left of the graphic above you can see how symmetry works. The dark green shape on the left side of the graphic is duplicated on the right, lighter green side of the shape. There are no visual differences between them other than the shade of green used. On the right side of the graphic, you have an example of asymmetry. There's a dark green shape on the left with areas that use straight lines but to the left, the yellow image uses all curved lines. While the yellow shape has the same proportion as the dark green shape, the shapes are not the same. 
+
+While asymmetry is not technically a Gestalt Principle, symmetry and asymmetry go hand-in-hand when talking about how symmetry can affect the users that you’re designing for. Symmetry creates harmony that is easy to visualize in your designs, while asymmetry calls the attention of your users. When used well, asymmetry creates visual interest.
+
+Here’s an example of symmetry in action on the homepage for Instapaper.
+
+The weight of all of the content on this page is symmetrical. With everything weighted toward the middle, new users know exactly what they should be looking at on this page: the brief lines of copy, the device that is in the middle of the screen, and the button to create an account to use the product. 
+
+As you design, consider if symmetry will work for your users' needs. Are there any pages that you can simplify and add visual weight to on one area of the screen? If symmetry won’t work for your design, maybe asymmetry will. 
+
+This is a great example of asymmetry from the website of the Alan Turing Institute.
+
+This website uses asymmetry to organize content by placing a block of text toward the center and two smaller blocks of text close by toward the upper left. The text size here is what guides users to the more important information on this homepage. 
+
+But, this website also does something really interesting underneath the text and on top of the background image. There is an animated shape that is sloped beneath the smaller text to the upper right that points directly toward the text in the middle. So, if the user’s eyes aren’t drawn to the bigger text in the beginning the sloped shape will guide the user’s eyes to look to that area first. 
+
+Asymmetry is all about creating visual interest for users. Are you finding that your product design must have certain elements on the page that you think may be distracting? Try asymmetry! You may find that changing the visual weight of your elements and their positions is exactly what your design needs to give your users exactly what they need. 
+
+As you continue to think about how you can use symmetry and asymmetry in your designs, check out a video from Skillshare that speaks to the depth of these principles and how they work in design and in the world: Symmetry vs. Asymmetry in Graphic Design.
+
+
+
+
