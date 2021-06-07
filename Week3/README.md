@@ -60,5 +60,25 @@ The sticker sheets/ UI Kits will be useful to other UX designers working on the 
 
 Sticker sheets aka UI Kits are a collection of elements and components that make up part of the design system.
 
+--- 
+### Test your knowledge on working with design systems in Figma
+
+**You are creating an alternative design for an app using the Material Baseline Design Kit in Figma. You find a style for the navigation bar you’d like to add to the app. You copy the selected style from the _____ page and paste it to the new page.**
+
+- Sticker Sheet
+
+**A designer begins a new project by reviewing the elevation section in the Material Baseline Design Kit in Figma. Which of the following design features should they apply a higher elevation to? Select all that apply.**
+
+- Buttons
+- Alerts
+- Navigation
+
+
+
+
+
+
+
+
 
 
