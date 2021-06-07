@@ -15,4 +15,16 @@ A **design system** is a series of reusable elements and guidelines that allow t
 
 ---
 
+### Benefits of design systems
+
+The term **scalable** describes a system that's able to maintain performance levels when workload increases.
+
+##### Benefits of design systems 
+- Create consistency for designers and users 
+- Reinforce a company's brand identity 
+- Scalable 
+- Save time and money by increasing efficiency 
+
+---
+
 
