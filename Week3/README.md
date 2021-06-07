@@ -34,6 +34,16 @@ The term **scalable** describes a system that's able to maintain performance lev
 - UI patterns
 
 ---
+### Explore popular design systems
+
+- https://material.io/resources Google's Material Design
+- https://polaris.shopify.com/ Shopify's Polaris
+- https://developer.apple.com/design/ Apple Human Interface Guidelines
+- https://www.microsoft.com/design/fluent/#/ Microsoft 
+- https://airbnb.design/building-a-visual-language/ AirBnb
+- https://designsystem.digital.gov/ a design system for the U.S. federal government
+
+---
 
 
 
