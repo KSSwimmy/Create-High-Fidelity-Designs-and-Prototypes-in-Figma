@@ -27,4 +27,13 @@ The term **scalable** describes a system that's able to maintain performance lev
 
 ---
 
+### Test your knowledge on design systems
+
+**A design team sets up a design system for an upcoming product launch. The design system includes visual styles, usage guidelines, _____, and support codes to ensure all elements in their design carry through to the final product.**
+
+- UI patterns
+
+---
+
+
 
