@@ -45,5 +45,20 @@ The term **scalable** describes a system that's able to maintain performance lev
 
 ---
 
+### Test your knowledge on features of open-source design systems
+
+**What pages in a public design system can new designers access for additional information and download baseline design kits for Figma and Adobe XD?**
+
+- Design 
+- Resources 
+- Components 
+
+---
+### Create a sticker sheet aka design kit in Figma
+
+The sticker sheets/ UI Kits will be useful to other UX designers working on the designs and to engineers who need to build each of the components using code.
+
+Sticker sheets aka UI Kits are a collection of elements and components that make up part of the design system.
+
 
 
