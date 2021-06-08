@@ -69,6 +69,7 @@ Additionally, there may be a fourth role of **notetaker**, who documents the ide
 Together, all of these roles work to create effective solutions to strengthen your designs. Throughout your UX design career, you’ll get the chance to facilitate, present, and review in a critique session.
 
 ---
+
 ### Introduction to a mock crit session
 
 #### How the presenter responds to feedback 
@@ -83,6 +84,21 @@ Together, all of these roles work to create effective solutions to strengthen yo
 - Do the reviewers focus on problems with the design instead of offering solutions? 
 - Do the reviewers connect their feedback to the objectives of the design critique session? 
 - With these questions in mind, let's join the crit session.
+
+---
+
+### Turn crit session feedback into actions
+
+#### If you were the presenter, ask yourself: 
+
+- How can I synthesize the feedback from the design critique session?
+- What feedback do I want to take action on to improve my designs or the user experience? 
+
+**WebAIM**, which stands for Web Accessibility in Mind, allows you to check the contrast between two colors and compare them against **WCAG**, or the Web Content Accessibility Guidelines' standards.
+
+
+
+
 
 
 
