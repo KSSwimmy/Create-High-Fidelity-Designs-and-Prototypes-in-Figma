@@ -69,8 +69,20 @@ Additionally, there may be a fourth role of **notetaker**, who documents the ide
 Together, all of these roles work to create effective solutions to strengthen your designs. Throughout your UX design career, you’ll get the chance to facilitate, present, and review in a critique session.
 
 ---
+### Introduction to a mock crit session
 
+#### How the presenter responds to feedback 
 
+- Is the presenter actively listening? 
+- Is the presenter taking notes? 
+- What types of follow-up questions is the presenter asking? 
+
+#### How the reviewers give feedback 
+
+- Do the reviewers share the reasoning behind their feedback? 
+- Do the reviewers focus on problems with the design instead of offering solutions? 
+- Do the reviewers connect their feedback to the objectives of the design critique session? 
+- With these questions in mind, let's join the crit session.
 
 
 
