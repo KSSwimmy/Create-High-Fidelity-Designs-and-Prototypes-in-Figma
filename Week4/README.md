@@ -53,6 +53,27 @@ The **facilitator**, their job is to run the crit session and guide the process.
 - Take in the feedback, and decide if you want to ask for clarification or respond 
 - Focus on active listening 
 
+--- 
+### Reading: Learn more about design critique sessions
+
+The facilitator of a design critique is in charge of running the critique session and guiding the feedback process. They may keep track of the time and create the agenda and goals for the meeting. 
+
+The **facilitator** is also responsible for ensuring everyone in the meeting is included and gets to share their ideas. Whether it’s because of a personality trait of an individual or a bias of the group, some people are going to be left out of the process if they’re not directly engaged. The facilitator makes sure each person gets an opportunity to share. Not all design critiques include a facilitator, but in many cases, especially when working with a large team, one can be very helpful.
+
+The **presenter** is the designer sharing their work with the team throughout the session. This could also be a group of designers who worked together. They might share their designs directly from Figma or Adobe XD, like a screen share, or they might create a presentation in Google Slides or Microsoft PowerPoint with images of their designs. As a designer, you’ll often take on the role of presenter. Make sure you engage with others in the meeting and prepare to ask questions and offer feedback. 
+
+The **reviewers** offer feedback on the designs presented and what steps are needed to improve the designs. There are often multiple reviewers and multiple critique sessions to look at the design from different perspectives. 
+
+Additionally, there may be a fourth role of **notetaker**, who documents the ideas and keeps track of all the feedback so the conversations can flow without interruption. The notetaker will likely record notes in a digital document so the notes can be shared with the entire group later.
+
+Together, all of these roles work to create effective solutions to strengthen your designs. Throughout your UX design career, you’ll get the chance to facilitate, present, and review in a critique session.
+
+---
+
+
+
+
+
 
 
 
