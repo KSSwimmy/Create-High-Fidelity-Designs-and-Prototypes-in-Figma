@@ -39,6 +39,20 @@ The **facilitator**, their job is to run the crit session and guide the process.
 - Reviewers take turns explaining their feedback 
 
 ---
+### Best practices for design critique sessions
+
+#### Questions to focus on when preparing your presentation 
+
+- Who are you designing for? 
+- What problem are you trying to solve?
+- How are your designs solving or not solving these problems? 
+- Where in the design process are you? 
+- What aspects of your designs are you seeking feedback on? 
+
+#### Best practices for presenters during a crit session 
+- Take in the feedback, and decide if you want to ask for clarification or respond 
+- Focus on active listening 
+
 
 
 
