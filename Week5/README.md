@@ -34,6 +34,17 @@ There are six steps to create a high-fidelity prototype in Figma. Those six step
 - share your work 
 
 ---
+### Gestures and motion in UX design
+
+A **gesture** is any method of interaction a user has with information on their device using touch.
+
+The most common gestures are tapping, scrolling, swiping, and zooming.
+
+**Motion** is a way to automate static design elements to focus the user's attention and tell stories.
+
+---
+
+
 
 
 
