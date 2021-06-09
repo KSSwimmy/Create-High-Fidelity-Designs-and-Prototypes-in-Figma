@@ -22,4 +22,19 @@ Finally, a high-fidelity prototype needs interactivity.
 
 ---
 
+### Create a high-fidelity prototype in Figma
+
+There are six steps to create a high-fidelity prototype in Figma. Those six steps are: 
+
+- lay out the mockups 
+- connect the screens 
+- add interaction details
+- adjust the animation
+- complete for all screens
+- share your work 
+
+---
+
+
+
 
