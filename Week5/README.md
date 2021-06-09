@@ -68,6 +68,17 @@ The trigger could be a mouse-click, touch gesture, or the time elapsed in the cu
 
 ---
 
+### Accessibility considerations for gestures and motion
+
+#### Accessibility considerations 
+
+- Provide alternative options to using gestures 
+- Think critically about the speed and duration of motion in your designs 
+- Give users the ability to turn off a motion
+
+---
+
+
 
 
 
