@@ -60,6 +60,17 @@ While some of these gestures may seem familiar, they aren't always universal acr
 
 ---
 
+### Add gestures and motion in Figma
+
+The **trigger** defines what type of interaction will cause the prototype to advance forward.
+
+The trigger could be a mouse-click, touch gesture, or the time elapsed in the current frame.
+
+---
+
+
+
+
 
 
 
